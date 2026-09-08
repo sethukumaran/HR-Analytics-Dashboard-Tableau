@@ -125,3 +125,6 @@ Department
 Users can filter the dashboard based on department.
 
 These filters allow users to drill down into specific employee groups and analyze their attrition patterns.
+
+<img width="1560" height="835" alt="image" src="https://github.com/user-attachments/assets/69e29eb0-4766-4575-8445-85f299f25e46" />
+
